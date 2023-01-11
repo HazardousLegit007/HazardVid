@@ -10,3 +10,18 @@ Github :Hazardouslegit007
 
 
 Telegram : HazardousLegit
+
+
+How to install :
+
+Clone the repo by Using the Command :
+1. git clone https://github.com/HazardousLegit007/HazardVid
+2. cd HazardVid
+3. pip3 install requirements.txt
+4. python3 hazardvid.py
+5. Then put in the Video Url and you are good to go
+
+
+
+ThankYou
+Regards HazardousLegit
