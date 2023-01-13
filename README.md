@@ -15,7 +15,7 @@ Telegram : HazardousLegit
 How to install :
 
 Clone the repo by Using the Command :
-1. git clone https://github.com/HazardousLegit007/HazardVid
+1. git clone https://github.com/HazardousLegit007/HazardVid.git
 2. cd HazardVid
 3. pip3 install requirements.txt
 4. or
